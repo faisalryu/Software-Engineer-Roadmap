@@ -1,1 +1,12 @@
-print ("hello World!")
+# print ("hello World!")
+
+# Variable assignment
+x = 5
+name = "Alice"
+is_student = True
+
+# Data types
+print(type(x))       # <class 'int'>
+print(type(name))    # <class 'str'>
+print(type(is_student))  # <class 'bool'>
+
