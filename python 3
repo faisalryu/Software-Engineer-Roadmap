@@ -10,3 +10,59 @@ print(type(x))       # <class 'int'>
 print(type(name))    # <class 'str'>
 print(type(is_student))  # <class 'bool'>
 
+# Arithmetic operations
+a = 10
+b = 5
+print(a + b)    # Addition
+print(a - b)    # Subtraction
+print(a * b)    # Multiplication
+print(a / b)    # Division
+print(a % b)    # Modulus (remainder)
+print(a ** b)   # Exponentiation
+
+# Logical operations
+x = True
+y = False
+print(x and y)  # Logical AND
+print(x or y)   # Logical OR
+print(not x)    # Logical NOT
+
+# Conditional statements
+age = 20
+if age >= 18:
+    print("You are an adult")
+else:
+    print("You are a minor")
+
+# Loops
+for i in range(5):
+    print(i)  # Prints numbers from 0 to 4
+
+# While loop
+count = 0
+while count < 5:
+    print(count)
+    count += 1
+
+# Function definition
+def greet(name):
+    print("Hello, " + name + "!")
+
+# Function call
+greet("Alice")  # Output: Hello, Alice!
+
+# Lists
+numbers = [1, 2, 3, 4, 5]
+fruits = ["apple", "banana", "orange"]
+
+# Accessing elements
+print(numbers[0])   # Access first element of the list
+print(fruits[-1])   # Access last element of the list
+
+# Dictionaries
+person = {"name": "Alice", "age": 30, "city": "New York"}
+
+# Accessing values
+print(person["name"])  # Output: Alice
+print(person.get("age"))  # Output: 30
+
