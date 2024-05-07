@@ -1,1 +1,76 @@
+SWE skills 8 weeks
+○ CS fundamentals
+○ Math/Statistics 1
+○ Programming language
+○ DSA
+○ SQL
+○ System design
 
+Week#1: CS fundamentals
+○ Topics
+■ Operating System
+■ Hardware: CPU, RAM, SSD, etc
+■ Bit/bytes
+■ Internet: DNS, HTTP, and HTTPS
+
+○ Resource
+■ Khan Academy
+
+
+Week#2: Math/Statistics
+○ Topics:
+■ Linear Algebra
+■ Calculus
+■ Probability theory
+
+○ Resource
+■ Khan Academy
+
+
+Week 3-4: Programming language
+○ Language: Python and C++ or Java
+○ Topics
+■ Variables
+■ Lists, Dictionaries, Tuples, Sets
+■ Conditional statements: If else
+■ Loop: for loop/while
+■ Functions
+■ File read/write
+■ Exception handling
+
+○ Resources:
+■ My course on Python ১ ঘণ্টায় পাইথন শিখুন:
+https://youtu.be/E1eKW6OiyiE?si=WPTzLm2VDJerLFJd"
+
+
+Week 5: Data Structure and Algorithm (DSA)
+○ Topics
+■ DS: Array/list, Hashmap, String, Stack/Q/Heap, Tree/Graph,
+LinkedList
+■ Algorithm: Binary search, BFS/DFS, Sorting, two pointers, sliding
+window, topological sort, dynamic programming
+
+○ Resource
+■ My Course on Python
+■ Abdul Bari: https://www.youtube.com/@abdul_bari
+
+
+Week 6: SQL
+○ Topics
+■ Basic database operations: CRUD, Join, Basic queries, Hive,
+noSQL
+
+○ Resource
+■ w3 school
+
+
+Week 7-8: System design (only for level 4)
+○ Topics
+■ Communication protocols, server models, storage,
+latency/throughput, caching, load balancer, hashing, database, rate
+limiting, HTTPS, API
+
+○ Resource
+■ Book: System Design Interview – An Insider's Guide by Alex Xu
+■ ebook: Grokking Modern System Design Interview by educative io
+■ SystemsExpert by AlgoExpert
